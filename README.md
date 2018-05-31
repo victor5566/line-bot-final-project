@@ -8,7 +8,12 @@
 在輸入桃園市與氣溫就可以找到桃園市各區的天氣資訊
 
 ![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180530-225213_LINE.jpg)
+
+第一組 : ‘地區’,‘時間’,‘溫度(攝氏度)’,‘相對溼度’,‘降雨機率時間’,‘降雨機率’,‘舒適度指數’,‘舒適度指標’,‘體感溫度(攝氏度)’,‘天氣現象’,‘天氣預報綜合描述‘ (顯示在輸入”桃園市”時會顯示資料)
+
 ![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180530-225237_LINE.jpg)
+
+第二組 : '地區','時間','溫度(攝氏度)','體感溫度(攝氏度)','天氣預報綜合描述'(顯示在輸入”氣溫”時會顯示資料)
 
 目前結果格式
 ![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180530-225256_Sheets.jpg)
