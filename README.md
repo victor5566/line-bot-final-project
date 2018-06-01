@@ -25,7 +25,7 @@
 ![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180601-133641_LINE.jpg)
 
 目前結果格式
-![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180530-225256_Sheets.jpg)
+![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180601-133731_LINE.jpg)
 
 
 Line ID : @wwx4392h
