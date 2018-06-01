@@ -1,9 +1,9 @@
 # line-bot-final-project
 
 
-加入好友後,輸入 “天氣資訊” 會顯示桃園市與氣溫 label
+加入好友後,輸入 “天氣資訊” 會顯示桃園市與label
 
-![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180530-225119_LINE.jpg)
+![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180601-133615_LINE.jpg)
 
 在輸入桃園市與氣溫就可以找到桃園市各區的天氣資訊
 
