@@ -11,7 +11,7 @@
 
 第一組 : ‘地區’,‘時間’,‘溫度(攝氏度)’,‘相對溼度’,‘降雨機率時間’,‘降雨機率’,‘舒適度指數’,‘舒適度指標’,‘體感溫度(攝氏度)’,‘天氣現象’,‘天氣預報綜合描述‘ (顯示在輸入”桃園市”時會顯示資料)
 
-![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180530-225237_LINE.jpg)
+![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180601-133641_LINE.jpg)
 
 第二組 : '地區','時間','溫度(攝氏度)','體感溫度(攝氏度)','天氣預報綜合描述'(顯示在輸入”氣溫”時會顯示資料)
 
