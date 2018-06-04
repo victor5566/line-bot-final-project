@@ -27,6 +27,14 @@
 目前結果格式
 ![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180601-133731_LINE.jpg)
 
+update
+增加二個天氣資料:台灣與離島天氣資料
+
+![image](https://github.com/victor5566/line-bot-final-project/blob/master/Screenshot_20180604-232206_LINE.jpg)
+
+是收集22個縣市的天氣資料
+打台灣會出現是四個 button 分別是北台灣,中台灣,南台灣,東台灣
+離島會有澎湖縣,金門縣,連江縣
 
 Line ID : @wwx4392h
 
